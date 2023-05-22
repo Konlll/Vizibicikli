@@ -10,6 +10,7 @@ namespace _2023._05._22
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asd");
         }
     }
 }
